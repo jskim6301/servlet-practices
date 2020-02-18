@@ -48,6 +48,7 @@
 	
 
 	<build>
+		<finalName>guestbook01</finalName>
 		<sourceDirectory>src/main/java</sourceDirectory>
 		<resources>
 			<resource>

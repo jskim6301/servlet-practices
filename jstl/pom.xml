@@ -46,7 +46,7 @@
 	
 
 	<build>
-		<finalName>jstlel</finalName>
+		<finalName>jstl</finalName>
 		<sourceDirectory>src/main/java</sourceDirectory>
 		<resources>
 			<resource>
