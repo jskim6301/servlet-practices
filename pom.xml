@@ -92,11 +92,11 @@
 	</build>		
 	
 	<modules>
-		<module>helloweb</module>
 		<module>guestbook01</module>
 		<module>emaillist01</module>
 		<module>emaillist02</module>
 		<module>guestbook02</module>
 		<module>jstl</module>
+		<module>helloweb</module>
 	</modules>
 </project>
