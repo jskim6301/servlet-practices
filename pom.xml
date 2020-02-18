@@ -82,7 +82,7 @@
 					<warSourceDirectory>src/main/webapp</warSourceDirectory>
 					<failOnMissingWebXml>false</failOnMissingWebXml>
 				</configuration>
-			</plugin>
+			</plugin>			
 
 		</plugins>
 		
