@@ -35,7 +35,7 @@ public class _02Servlet extends HttpServlet {
 		//session scope
 		UserVO vo2 = new UserVO();
 		vo2.setNo(2L);
-		vo2.setName("김지술2");		
+		vo2.setName("김지술22222222222222222222");		
 		request.getSession(true).setAttribute("vo", vo2);
 		
 		request.getRequestDispatcher("/WEB-INF/views/02.jsp").forward(request, response);
